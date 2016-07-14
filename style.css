@@ -22,3 +22,8 @@ body {
 	margin-top: 30px;
 
 }
+
+.current-menu-item  > a {
+	background: #000;
+
+}
